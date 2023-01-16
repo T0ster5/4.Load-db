@@ -4,3 +4,7 @@
 2. git clone https://github.com/mshegolev/congenial-potato.git cd congenial-potato
 3. Запуск cd /congenial-potato/wp docker-compose up -d
 
+ntcn
+test
+test
+
